@@ -1,8 +1,8 @@
 {
  "format": 1,
- "olusturma": "2026-11-18T15:17:44+03:00",
+ "olusturma": "2026-11-18T21:31:05+03:00",
  "kapsam": {
-  "isletmeci": 25,
+  "isletmeci": 31,
   "soket_payi": 0.0
  },
  "kaynaklar": [
@@ -106,7 +106,7 @@
    "lisans_no": "ŞH/13514/00211",
    "marka": "EKA Enerji",
    "sayfa_url": "https://ekaenerjiteknoloji.com.tr/sarj/fiyat",
-   "okuma": "elle"
+   "okuma": "otomatik"
   },
   {
    "lisans_no": "ŞH/12342-6/00181",
@@ -280,12 +280,12 @@
    "lisans_no": "ŞH/11554-3/00084",
    "marka": "otoWATT",
    "sayfa_url": "https://www.otowatt.com.tr/tarifelerimiz",
-   "okuma": "otomatik"
+   "okuma": "yok"
   },
   {
    "lisans_no": "ŞH/12298-2/00168",
    "marka": "Ovolt",
-   "sayfa_url": "https://ovolt.com.tr/avantajli-tarifeler",
+   "sayfa_url": "https://ovolt.com.tr/tarifeler",
    "okuma": "otomatik"
   },
   {
@@ -344,9 +344,9 @@
   },
   {
    "lisans_no": "ŞH/12204-1/00150",
-   "marka": "U-ŞARJ",
+   "marka": "U-Şarj",
    "sayfa_url": "https://usarj.com.tr/fiyat-tarifesi",
-   "okuma": "yok"
+   "okuma": "otomatik"
   },
   {
    "lisans_no": "ŞH/11630-4/00105",
@@ -369,7 +369,7 @@
   {
    "lisans_no": "ŞH/11032-2/00012",
    "marka": "WAT Mobilite",
-   "sayfa_url": "https://www.watmobilite.com/cozumler/kamusal-alanlar",
+   "sayfa_url": "https://www.watmobilite.com/cozumler/kamusal-alanlar#guncel-fiyat-ve-tarifeler",
    "okuma": "otomatik"
   },
   {
@@ -403,6 +403,12 @@
    "okuma": "yok"
   },
   {
+   "lisans_no": "ŞH/13138-2/00206",
+   "marka": "Şarjed Park",
+   "sayfa_url": "https://sarjed.com/tarifeler",
+   "okuma": "otomatik"
+  },
+  {
    "lisans_no": "ŞH/14040-2/00218",
    "marka": "ŞARJLAN",
    "sayfa_url": "https://www.sarjlan.com/fiyatlandirma/",
@@ -413,12 +419,6 @@
    "marka": "Şarjon",
    "sayfa_url": "https://sarjon.com.tr/fiyatlar/",
    "okuma": "otomatik"
-  },
-  {
-   "lisans_no": "ŞH/13138-2/00206",
-   "marka": "şarjed Park",
-   "sayfa_url": "https://sarjed.com/tarifeler",
-   "okuma": "yok"
   }
  ],
  "kayitlar": [
@@ -531,6 +531,18 @@
    "yontem": "otomatik"
   },
   {
+   "lisans_no": "ŞH/13514/00211",
+   "ac_alt": 9.7,
+   "ac_ust": 9.7,
+   "dc_alt": 12.8,
+   "dc_ust": 12.8,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T21:27:51+03:00",
+   "son_kontrol": "2026-11-18T21:27:51+03:00",
+   "yontem": "elle"
+  },
+  {
    "lisans_no": "ŞH/10985-2/00001",
    "ac_alt": null,
    "ac_ust": null,
@@ -553,6 +565,18 @@
    "okuma_zamani": "2026-11-18T14:56:15+03:00",
    "son_kontrol": "2026-11-18T14:56:15+03:00",
    "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11032-4/00014",
+   "ac_alt": 9.9,
+   "ac_ust": 9.9,
+   "dc_alt": 9.9,
+   "dc_ust": 14.9,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T21:25:28+03:00",
+   "son_kontrol": "2026-11-18T21:25:28+03:00",
+   "yontem": "elle"
   },
   {
    "lisans_no": "ŞH/11239-1/00040",
@@ -627,6 +651,18 @@
    "yontem": "otomatik"
   },
   {
+   "lisans_no": "ŞH/11554-3/00084",
+   "ac_alt": 9.49,
+   "ac_ust": 10.99,
+   "dc_alt": 11.99,
+   "dc_ust": 13.99,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T21:24:35+03:00",
+   "son_kontrol": "2026-11-18T21:24:35+03:00",
+   "yontem": "elle"
+  },
+  {
    "lisans_no": "ŞH/12298-2/00168",
    "ac_alt": 7.91,
    "ac_ust": 7.91,
@@ -661,6 +697,30 @@
    "okuma_zamani": "2026-11-18T14:55:03+03:00",
    "son_kontrol": "2026-11-18T14:55:03+03:00",
    "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12204-1/00150",
+   "ac_alt": 9.9,
+   "ac_ust": 9.95,
+   "dc_alt": 12.9,
+   "dc_ust": 12.9,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T21:29:43+03:00",
+   "son_kontrol": "2026-11-18T21:29:43+03:00",
+   "yontem": "elle"
+  },
+  {
+   "lisans_no": "ŞH/12048-2/00139",
+   "ac_alt": 10.9,
+   "ac_ust": 10.9,
+   "dc_alt": 13.9,
+   "dc_ust": 13.9,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T21:30:19+03:00",
+   "son_kontrol": "2026-11-18T21:30:19+03:00",
+   "yontem": "elle"
   },
   {
    "lisans_no": "ŞH/11032-2/00012",
@@ -711,6 +771,18 @@
    "yontem": "otomatik"
   },
   {
+   "lisans_no": "ŞH/13138-2/00206",
+   "ac_alt": 9.99,
+   "ac_ust": 9.99,
+   "dc_alt": 12.9,
+   "dc_ust": 12.9,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T21:30:55+03:00",
+   "son_kontrol": "2026-11-18T21:30:55+03:00",
+   "yontem": "elle"
+  },
+  {
    "lisans_no": "ŞH/11032-1/00011",
    "ac_alt": 10.99,
    "ac_ust": 10.99,
@@ -723,5 +795,5 @@
    "yontem": "otomatik"
   }
  ],
- "ozet_sha256": "eba3aaa0f2b69c8d212d9e1b4a4d9d688d4e242c0320e2cf2bd93f35998ac37c"
+ "ozet_sha256": "6a0d5047fa7fbc03a5f17805c30fba817f87984158e82f7e0c9c6ceff04063e8"
 }
