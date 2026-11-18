@@ -1,0 +1,727 @@
+{
+ "format": 1,
+ "olusturma": "2026-11-18T15:17:44+03:00",
+ "kapsam": {
+  "isletmeci": 25,
+  "soket_payi": 0.0
+ },
+ "kaynaklar": [
+  {
+   "lisans_no": "ŞH/11504-1/00074",
+   "marka": "5 Şarj",
+   "sayfa_url": "https://5sarj.com/tr/fiyatlandirma",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11615-1/00096",
+   "marka": "ADZE",
+   "sayfa_url": "https://www.adze.com/tr/fiyat-tarifesi",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11124-5/00030",
+   "marka": "Aksa Şarj",
+   "sayfa_url": "https://www.aksasarj.com.tr/tr/ucretler",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11590-2/00091",
+   "marka": "AOS Technology",
+   "sayfa_url": "https://aostechnology.com.tr/anasayfa-2/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11392-1/00058",
+   "marka": "Arcona Consultancy",
+   "sayfa_url": "https://arconasarj.com/tarife",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12273-1/00160",
+   "marka": "As Plus Şarj",
+   "sayfa_url": "https://asplussarj.com/fiyatlar",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11032-3/00013",
+   "marka": "Astor Şarj",
+   "sayfa_url": "https://astorsarj.com.tr/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11124-1/00026",
+   "marka": "Beefull",
+   "sayfa_url": "https://beefull.com/tarifeler/elektrikli-arac-tarifesi/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12613/00194",
+   "marka": "Biogreen",
+   "sayfa_url": "https://www.biogreen.com.tr/tr/ucretlendirme",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11474-1/00072",
+   "marka": "BLADECO",
+   "sayfa_url": "https://www.bladeco.com.tr/tarifeler/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11474-2/00073",
+   "marka": "BÖLGEM mobilite",
+   "sayfa_url": "https://www.bolgem.com.tr/fiyat-tarifesi/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11181-2/00036",
+   "marka": "Carbonage",
+   "sayfa_url": "https://carbonage.net/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12126-2/00144",
+   "marka": "CheckPoint",
+   "sayfa_url": "https://checkpointsarj.com.tr/fiyatlandirma",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12126-1/00145",
+   "marka": "D-Charge",
+   "sayfa_url": "https://dcharge.com.tr/tarifeler",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/15023/00229",
+   "marka": "Dorjet",
+   "sayfa_url": "https://powersarj.com/fiyatlandirma/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11554-2/00083",
+   "marka": "efish",
+   "sayfa_url": "https://www.efish.com.tr/tr/fiyatlandirma/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/13514/00211",
+   "marka": "EKA Enerji",
+   "sayfa_url": "https://ekaenerjiteknoloji.com.tr/sarj/fiyat",
+   "okuma": "elle"
+  },
+  {
+   "lisans_no": "ŞH/12342-6/00181",
+   "marka": "Ekojet",
+   "sayfa_url": "https://ecojet.com.tr/tr/fiyatlandirma",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11116-2/00025",
+   "marka": "Elaris Elektrikli Araç Şarj Hizmetleri",
+   "sayfa_url": "https://elaris.com.tr/elaris-tarife/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/10985-2/00001",
+   "marka": "En Yakıt",
+   "sayfa_url": "https://www.enyakit.com.tr/ucretlendirme",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11653-2/00107",
+   "marka": "Energy enerjik",
+   "sayfa_url": "https://energysarj.com.tr/sarj-fiyatlari/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11301-2/00049",
+   "marka": "EPSIS",
+   "sayfa_url": "https://www.epsis.net/elektrikli-arac-sarj-tarifeleri",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11032-4/00014",
+   "marka": "Eşarj",
+   "sayfa_url": "https://esarj.com/fiyatlandirma",
+   "okuma": "elle"
+  },
+  {
+   "lisans_no": "ŞH/14371/00223",
+   "marka": "Fastin energy",
+   "sayfa_url": "https://fastinenergy.com/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11392-3/00060",
+   "marka": "FZYENERGY",
+   "sayfa_url": "https://fzyenergy.com/fiyatlandirma.php",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11893/00130",
+   "marka": "GEL DOL",
+   "sayfa_url": "https://geldol.com/tarifeler/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11301-4/00051",
+   "marka": "Getacharge",
+   "sayfa_url": "https://getacharge.com.tr/fiyatlar/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12273-3/00163",
+   "marka": "GezCar",
+   "sayfa_url": "https://gezcarenerji.com/fiyatlarimiz",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11239-1/00040",
+   "marka": "GIOEV",
+   "sayfa_url": "https://gioev.com/fiyatlandirma",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/14868/00226",
+   "marka": "Greenwatt",
+   "sayfa_url": "https://gwesi.com/tarifeler/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11615-5/00101",
+   "marka": "GSM CHARGE",
+   "sayfa_url": "https://gsmcharge.com.tr/fiyatlar",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12185-2/00146",
+   "marka": "HES GROUP",
+   "sayfa_url": "https://ekosarj.com/sarj-agi-tarifeleri/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12512-2/00189",
+   "marka": "HIZZLAN Charge N'Drive",
+   "sayfa_url": "https://hizzlan.com/ucretlendirme-ve-tarifeler",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/14672/00224",
+   "marka": "INTERENERGY electric charging unit",
+   "sayfa_url": "https://www.interenergy.com.tr/sarj-ucretleri/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12220-1/00152",
+   "marka": "KES",
+   "sayfa_url": "https://kessarj.com/fiyat-ve-tarifeler",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11420-2/00067",
+   "marka": "Lumicle",
+   "sayfa_url": "https://lumicle.com.tr/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12580-1/00193",
+   "marka": "MEHMETÇİK ENERJİ GRUBU",
+   "sayfa_url": "https://mehmetcikenerjigrubu.com.tr/fiyattarifesi",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12273-5/00164",
+   "marka": "MERCURY",
+   "sayfa_url": "https://mercurysarj.com.tr/fiyatlandirma/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12326-1/00174",
+   "marka": "MYPOWER",
+   "sayfa_url": "https://mypower.net.tr/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12229-1/00154",
+   "marka": "MYZCO",
+   "sayfa_url": "https://myzcocharge.com/fiyatlar",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11059-1/00015",
+   "marka": "Neva Şarj",
+   "sayfa_url": "https://nevasarj.com/sayfalar/istasyonlarimiz/arac-sarj-ac-dc-kwh-fiyat-tarifeleri.html",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12034/00138",
+   "marka": "Obişarj",
+   "sayfa_url": "https://obisarj.com/tarifeler/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/10985-5/00003",
+   "marka": "Oncharge",
+   "sayfa_url": "https://oncharge.com.tr/fiyatlar",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11009-5/00006",
+   "marka": "Otojet",
+   "sayfa_url": "https://www.oto-jet.com.tr/fiyatlarimiz",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11615-2/00097",
+   "marka": "Otopriz",
+   "sayfa_url": "https://otopriz.com.tr/uyelik-ve-tarifeler",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11554-3/00084",
+   "marka": "otoWATT",
+   "sayfa_url": "https://www.otowatt.com.tr/tarifelerimiz",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12298-2/00168",
+   "marka": "Ovolt",
+   "sayfa_url": "https://ovolt.com.tr/avantajli-tarifeler",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12298-3/00169",
+   "marka": "Plug&drive",
+   "sayfa_url": "https://pgdenerji.com/fiyatlandirma",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11099-5/00023",
+   "marka": "Powerşarj",
+   "sayfa_url": "https://powersarj.com/fiyatlandirma/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11277-2/00045",
+   "marka": "PİLSTOP",
+   "sayfa_url": "https://pilstop.com/fiyatlandirma/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/13138-1/00205",
+   "marka": "Qopuz Energy proton neutron",
+   "sayfa_url": "https://www.qopuzenergy.com/tarifeler",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11392-6/00063",
+   "marka": "Rst ChargePoint",
+   "sayfa_url": "https://rstchargepoint.com/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12639-1/00195",
+   "marka": "Spectrum girişimcilik",
+   "sayfa_url": "https://spectrumsarj.com/fiyat-tarifesi/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12298-4/00170",
+   "marka": "TELLİGRUP",
+   "sayfa_url": "https://ecomobil.com.tr/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11009-3/00007",
+   "marka": "Trugo",
+   "sayfa_url": "https://trugo.com.tr/price",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11672-1/00111",
+   "marka": "TÜRKŞARJ",
+   "sayfa_url": "https://turksarj.com.tr/ucretlendirme/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12204-1/00150",
+   "marka": "U-ŞARJ",
+   "sayfa_url": "https://usarj.com.tr/fiyat-tarifesi",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11630-4/00105",
+   "marka": "VALE",
+   "sayfa_url": "https://valesarj.com.tr/fiyatlar/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/12048-2/00139",
+   "marka": "Voltrun",
+   "sayfa_url": "https://www.voltrun.com/tr/tarifeler",
+   "okuma": "elle"
+  },
+  {
+   "lisans_no": "ŞH/11277-1/00044",
+   "marka": "VİTALEN",
+   "sayfa_url": "https://vilampo.com/tr/price",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11032-2/00012",
+   "marka": "WAT Mobilite",
+   "sayfa_url": "https://www.watmobilite.com/cozumler/kamusal-alanlar",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/13192-1/00207",
+   "marka": "Wattarya",
+   "sayfa_url": "https://www.wattarya.com/tarifeler",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/14040-1/00217",
+   "marka": "Windmark",
+   "sayfa_url": "https://bigstation.com/tarifeler/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11577-4/00089",
+   "marka": "Zeplin Enerji",
+   "sayfa_url": "https://www.zeplinenerji.com/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11009-4/00008",
+   "marka": "ZES",
+   "sayfa_url": "https://zes.net/tr/fiyatlandirma",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11541-2/00079",
+   "marka": "İSPİRLİ",
+   "sayfa_url": "https://www.isarj.com/tarifeler/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/14040-2/00218",
+   "marka": "ŞARJLAN",
+   "sayfa_url": "https://www.sarjlan.com/fiyatlandirma/",
+   "okuma": "yok"
+  },
+  {
+   "lisans_no": "ŞH/11032-1/00011",
+   "marka": "Şarjon",
+   "sayfa_url": "https://sarjon.com.tr/fiyatlar/",
+   "okuma": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/13138-2/00206",
+   "marka": "şarjed Park",
+   "sayfa_url": "https://sarjed.com/tarifeler",
+   "okuma": "yok"
+  }
+ ],
+ "kayitlar": [
+  {
+   "lisans_no": "ŞH/11504-1/00074",
+   "ac_alt": 8.99,
+   "ac_ust": 8.99,
+   "dc_alt": 15.9,
+   "dc_ust": 15.9,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:56:10+03:00",
+   "son_kontrol": "2026-11-18T14:56:10+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11615-1/00096",
+   "ac_alt": 9.4,
+   "ac_ust": 9.4,
+   "dc_alt": 13.4,
+   "dc_ust": 13.4,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:57:07+03:00",
+   "son_kontrol": "2026-11-18T14:57:07+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11124-5/00030",
+   "ac_alt": 9.9,
+   "ac_ust": 10.9,
+   "dc_alt": 11.99,
+   "dc_ust": 13.99,
+   "aciklama": "Tarife istasyona, ünite tipine ve şarjın başladığı saate göre aralıkta değişir.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:40+03:00",
+   "son_kontrol": "2026-11-18T14:55:40+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11590-2/00091",
+   "ac_alt": 10.9,
+   "ac_ust": 10.9,
+   "dc_alt": 14.9,
+   "dc_ust": 14.9,
+   "aciklama": null,
+   "yururluk_tarihi": "2026-04-18",
+   "okuma_zamani": "2026-11-18T14:56:33+03:00",
+   "son_kontrol": "2026-11-18T14:56:33+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12273-1/00160",
+   "ac_alt": 9.49,
+   "ac_ust": 9.49,
+   "dc_alt": 12.49,
+   "dc_ust": 12.49,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:57:01+03:00",
+   "son_kontrol": "2026-11-18T14:57:01+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11032-3/00013",
+   "ac_alt": 8.99,
+   "ac_ust": 8.99,
+   "dc_alt": 10.9,
+   "dc_ust": 10.9,
+   "aciklama": "İşgaliye bedeli (dakika başına) fiyata katılmaz.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:31+03:00",
+   "son_kontrol": "2026-11-18T14:55:31+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11124-1/00026",
+   "ac_alt": 9.9,
+   "ac_ust": 9.9,
+   "dc_alt": 13.99,
+   "dc_ust": 13.99,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:35+03:00",
+   "son_kontrol": "2026-11-18T14:55:35+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12126-1/00145",
+   "ac_alt": 10.9,
+   "ac_ust": 10.9,
+   "dc_alt": 14.9,
+   "dc_ust": 14.9,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:53+03:00",
+   "son_kontrol": "2026-11-18T14:55:53+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11554-2/00083",
+   "ac_alt": 10.99,
+   "ac_ust": 10.99,
+   "dc_alt": 15.99,
+   "dc_ust": 15.99,
+   "aciklama": "İşgaliye ücreti (dakika başına) fiyata katılmaz.",
+   "yururluk_tarihi": "2026-10-21",
+   "okuma_zamani": "2026-11-18T14:56:05+03:00",
+   "son_kontrol": "2026-11-18T14:56:05+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/10985-2/00001",
+   "ac_alt": null,
+   "ac_ust": null,
+   "dc_alt": 14.9,
+   "dc_ust": 14.9,
+   "aciklama": "Ağın tamamı DC hızlı şarj; sayfada tek fiyat.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:49+03:00",
+   "son_kontrol": "2026-11-18T14:55:49+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11301-2/00049",
+   "ac_alt": 9.9,
+   "ac_ust": 9.9,
+   "dc_alt": 12.5,
+   "dc_ust": 12.5,
+   "aciklama": null,
+   "yururluk_tarihi": "2026-03-04",
+   "okuma_zamani": "2026-11-18T14:56:15+03:00",
+   "son_kontrol": "2026-11-18T14:56:15+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11239-1/00040",
+   "ac_alt": null,
+   "ac_ust": null,
+   "dc_alt": 11.99,
+   "dc_ust": 13.73,
+   "aciklama": "DC aralığı: standart tarife ve seçili istasyonlarda kampanyalı fiyatlar. AC sekmesinin fiyatı sayfa metninde yok.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:56:52+03:00",
+   "son_kontrol": "2026-11-18T14:56:52+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11420-2/00067",
+   "ac_alt": 9.99,
+   "ac_ust": 9.99,
+   "dc_alt": 13.49,
+   "dc_ust": 13.49,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:56:48+03:00",
+   "son_kontrol": "2026-11-18T14:56:48+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11059-1/00015",
+   "ac_alt": 9.9,
+   "ac_ust": 9.9,
+   "dc_alt": 13.9,
+   "dc_ust": 13.9,
+   "aciklama": null,
+   "yururluk_tarihi": "2026-02-17",
+   "okuma_zamani": "2026-11-18T14:56:19+03:00",
+   "son_kontrol": "2026-11-18T14:56:19+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/10985-5/00003",
+   "ac_alt": 9.99,
+   "ac_ust": 9.99,
+   "dc_alt": 13.5,
+   "dc_ust": 13.5,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:26+03:00",
+   "son_kontrol": "2026-11-18T14:55:26+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11009-5/00006",
+   "ac_alt": 10.99,
+   "ac_ust": 10.99,
+   "dc_alt": 15.49,
+   "dc_ust": 15.49,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:44+03:00",
+   "son_kontrol": "2026-11-18T14:55:44+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11615-2/00097",
+   "ac_alt": 7.92,
+   "ac_ust": 9.9,
+   "dc_alt": 9.73,
+   "dc_ust": 13.9,
+   "aciklama": "Aralık: lokasyon bazlı indirimli fiyatlar. Mobil şarj ayrı satırda listelenir (sayılara katılmadı).",
+   "yururluk_tarihi": "2026-01-20",
+   "okuma_zamani": "2026-11-18T14:55:21+03:00",
+   "son_kontrol": "2026-11-18T14:55:21+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/12298-2/00168",
+   "ac_alt": 7.91,
+   "ac_ust": 7.91,
+   "dc_alt": 9.67,
+   "dc_ust": 11.87,
+   "aciklama": "Yalnız kampanya sayfası: seçili istasyonlarda standart ve kampanyalı DC fiyatları (aralık); ağın genel AC tarifesi bu sayfada yok.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:56:01+03:00",
+   "son_kontrol": "2026-11-18T14:56:01+03:00",
+   "yontem": "elle"
+  },
+  {
+   "lisans_no": "ŞH/11099-5/00023",
+   "ac_alt": 11.19,
+   "ac_ust": 11.19,
+   "dc_alt": 13.99,
+   "dc_ust": 13.99,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:56:38+03:00",
+   "son_kontrol": "2026-11-18T14:56:38+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11009-3/00007",
+   "ac_alt": 9.95,
+   "ac_ust": 9.95,
+   "dc_alt": 12.0,
+   "dc_ust": 14.98,
+   "aciklama": "DC fiyatı lokasyona göre belirtilen aralıkta değişir.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:03+03:00",
+   "son_kontrol": "2026-11-18T14:55:03+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11032-2/00012",
+   "ac_alt": 9.99,
+   "ac_ust": 10.99,
+   "dc_alt": 11.99,
+   "dc_ust": 14.49,
+   "aciklama": "Lokasyonlardaki birim fiyat belirlenen aralıkta değişir.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:07+03:00",
+   "son_kontrol": "2026-11-18T14:55:07+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/13192-1/00207",
+   "ac_alt": 9.95,
+   "ac_ust": 9.95,
+   "dc_alt": 13.45,
+   "dc_ust": 13.45,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:56:56+03:00",
+   "son_kontrol": "2026-11-18T14:56:56+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11577-4/00089",
+   "ac_alt": 9.5,
+   "ac_ust": 9.5,
+   "dc_alt": 12.0,
+   "dc_ust": 12.0,
+   "aciklama": null,
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:55:16+03:00",
+   "son_kontrol": "2026-11-18T14:55:16+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11009-4/00008",
+   "ac_alt": 10.99,
+   "ac_ust": 10.99,
+   "dc_alt": 12.99,
+   "dc_ust": 16.49,
+   "aciklama": "DC iki fiyat (DC-1 / DC-2 cihaz türü); fiyatlar lokasyona göre değişebilir.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:54:58+03:00",
+   "son_kontrol": "2026-11-18T14:54:58+03:00",
+   "yontem": "otomatik"
+  },
+  {
+   "lisans_no": "ŞH/11032-1/00011",
+   "ac_alt": 10.99,
+   "ac_ust": 10.99,
+   "dc_alt": 11.99,
+   "dc_ust": 13.99,
+   "aciklama": "DC iki fiyat (DC-1 / DC-2); DC fiyatı lokasyona göre değişir.",
+   "yururluk_tarihi": null,
+   "okuma_zamani": "2026-11-18T14:57:11+03:00",
+   "son_kontrol": "2026-11-18T14:57:11+03:00",
+   "yontem": "otomatik"
+  }
+ ],
+ "ozet_sha256": "eba3aaa0f2b69c8d212d9e1b4a4d9d688d4e242c0320e2cf2bd93f35998ac37c"
+}
