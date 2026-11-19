@@ -1,9 +1,9 @@
 {
  "format": 1,
- "olusturma": "2026-11-18T21:31:05+03:00",
+ "olusturma": "2026-11-19T09:22:05+03:00",
  "kapsam": {
   "isletmeci": 31,
-  "soket_payi": 0.0
+  "soket_payi": 67.8
  },
  "kaynaklar": [
   {
@@ -280,7 +280,7 @@
    "lisans_no": "ŞH/11554-3/00084",
    "marka": "otoWATT",
    "sayfa_url": "https://www.otowatt.com.tr/tarifelerimiz",
-   "okuma": "yok"
+   "okuma": "elle"
   },
   {
    "lisans_no": "ŞH/12298-2/00168",
@@ -431,7 +431,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:56:10+03:00",
-   "son_kontrol": "2026-11-18T14:56:10+03:00",
+   "son_kontrol": "2026-11-19T09:15:41+03:00",
    "yontem": "otomatik"
   },
   {
@@ -443,7 +443,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:57:07+03:00",
-   "son_kontrol": "2026-11-18T14:57:07+03:00",
+   "son_kontrol": "2026-11-19T09:16:48+03:00",
    "yontem": "otomatik"
   },
   {
@@ -455,7 +455,7 @@
    "aciklama": "Tarife istasyona, ünite tipine ve şarjın başladığı saate göre aralıkta değişir.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:40+03:00",
-   "son_kontrol": "2026-11-18T14:55:40+03:00",
+   "son_kontrol": "2026-11-19T09:15:07+03:00",
    "yontem": "otomatik"
   },
   {
@@ -467,7 +467,7 @@
    "aciklama": null,
    "yururluk_tarihi": "2026-04-18",
    "okuma_zamani": "2026-11-18T14:56:33+03:00",
-   "son_kontrol": "2026-11-18T14:56:33+03:00",
+   "son_kontrol": "2026-11-19T09:16:06+03:00",
    "yontem": "otomatik"
   },
   {
@@ -479,7 +479,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:57:01+03:00",
-   "son_kontrol": "2026-11-18T14:57:01+03:00",
+   "son_kontrol": "2026-11-19T09:16:42+03:00",
    "yontem": "otomatik"
   },
   {
@@ -491,7 +491,7 @@
    "aciklama": "İşgaliye bedeli (dakika başına) fiyata katılmaz.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:31+03:00",
-   "son_kontrol": "2026-11-18T14:55:31+03:00",
+   "son_kontrol": "2026-11-19T09:14:57+03:00",
    "yontem": "otomatik"
   },
   {
@@ -503,7 +503,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:35+03:00",
-   "son_kontrol": "2026-11-18T14:55:35+03:00",
+   "son_kontrol": "2026-11-19T09:15:02+03:00",
    "yontem": "otomatik"
   },
   {
@@ -515,7 +515,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:53+03:00",
-   "son_kontrol": "2026-11-18T14:55:53+03:00",
+   "son_kontrol": "2026-11-19T09:15:24+03:00",
    "yontem": "otomatik"
   },
   {
@@ -527,7 +527,7 @@
    "aciklama": "İşgaliye ücreti (dakika başına) fiyata katılmaz.",
    "yururluk_tarihi": "2026-10-21",
    "okuma_zamani": "2026-11-18T14:56:05+03:00",
-   "son_kontrol": "2026-11-18T14:56:05+03:00",
+   "son_kontrol": "2026-11-19T09:15:36+03:00",
    "yontem": "otomatik"
   },
   {
@@ -536,10 +536,10 @@
    "ac_ust": 9.7,
    "dc_alt": 12.8,
    "dc_ust": 12.8,
-   "aciklama": null,
+   "aciklama": "Tek fiyat (AC ve DC). Süre aşımında dakika başına işgaliye bedeli fiyata katılmaz.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T21:27:51+03:00",
-   "son_kontrol": "2026-11-18T21:27:51+03:00",
+   "son_kontrol": "2026-11-19T09:16:57+03:00",
    "yontem": "elle"
   },
   {
@@ -551,7 +551,7 @@
    "aciklama": "Ağın tamamı DC hızlı şarj; sayfada tek fiyat.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:49+03:00",
-   "son_kontrol": "2026-11-18T14:55:49+03:00",
+   "son_kontrol": "2026-11-19T09:15:18+03:00",
    "yontem": "otomatik"
   },
   {
@@ -563,7 +563,7 @@
    "aciklama": null,
    "yururluk_tarihi": "2026-03-04",
    "okuma_zamani": "2026-11-18T14:56:15+03:00",
-   "son_kontrol": "2026-11-18T14:56:15+03:00",
+   "son_kontrol": "2026-11-19T09:15:46+03:00",
    "yontem": "otomatik"
   },
   {
@@ -572,7 +572,7 @@
    "ac_ust": 9.9,
    "dc_alt": 9.9,
    "dc_ust": 14.9,
-   "aciklama": null,
+   "aciklama": "robots.txt fiyat sayfasını yasaklıyor; fiyat elle girilir (bağlantı açılabilir).",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T21:25:28+03:00",
    "son_kontrol": "2026-11-18T21:25:28+03:00",
@@ -587,7 +587,7 @@
    "aciklama": "DC aralığı: standart tarife ve seçili istasyonlarda kampanyalı fiyatlar. AC sekmesinin fiyatı sayfa metninde yok.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:56:52+03:00",
-   "son_kontrol": "2026-11-18T14:56:52+03:00",
+   "son_kontrol": "2026-11-19T09:16:28+03:00",
    "yontem": "otomatik"
   },
   {
@@ -599,7 +599,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:56:48+03:00",
-   "son_kontrol": "2026-11-18T14:56:48+03:00",
+   "son_kontrol": "2026-11-19T09:16:22+03:00",
    "yontem": "otomatik"
   },
   {
@@ -611,7 +611,7 @@
    "aciklama": null,
    "yururluk_tarihi": "2026-02-17",
    "okuma_zamani": "2026-11-18T14:56:19+03:00",
-   "son_kontrol": "2026-11-18T14:56:19+03:00",
+   "son_kontrol": "2026-11-19T09:15:51+03:00",
    "yontem": "otomatik"
   },
   {
@@ -623,7 +623,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:26+03:00",
-   "son_kontrol": "2026-11-18T14:55:26+03:00",
+   "son_kontrol": "2026-11-19T09:14:51+03:00",
    "yontem": "otomatik"
   },
   {
@@ -635,7 +635,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:44+03:00",
-   "son_kontrol": "2026-11-18T14:55:44+03:00",
+   "son_kontrol": "2026-11-19T09:15:13+03:00",
    "yontem": "otomatik"
   },
   {
@@ -647,7 +647,7 @@
    "aciklama": "Aralık: lokasyon bazlı indirimli fiyatlar. Mobil şarj ayrı satırda listelenir (sayılara katılmadı).",
    "yururluk_tarihi": "2026-01-20",
    "okuma_zamani": "2026-11-18T14:55:21+03:00",
-   "son_kontrol": "2026-11-18T14:55:21+03:00",
+   "son_kontrol": "2026-11-19T09:14:46+03:00",
    "yontem": "otomatik"
   },
   {
@@ -656,7 +656,7 @@
    "ac_ust": 10.99,
    "dc_alt": 11.99,
    "dc_ust": 13.99,
-   "aciklama": null,
+   "aciklama": "Sahip bildirimi: sayfa fiyat yayımlamaya başladı. Otomatik kural, sayfa bir kez okunup metni görüldükten sonra yazılacak (günde en çok 1 okuma kuralı nedeniyle ertelendi); o zamana dek elle girilir.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T21:24:35+03:00",
    "son_kontrol": "2026-11-18T21:24:35+03:00",
@@ -668,10 +668,10 @@
    "ac_ust": 7.91,
    "dc_alt": 9.67,
    "dc_ust": 11.87,
-   "aciklama": "Yalnız kampanya sayfası: seçili istasyonlarda standart ve kampanyalı DC fiyatları (aralık); ağın genel AC tarifesi bu sayfada yok.",
+   "aciklama": "Genel tarife: DC fiyatı istasyona göre aralıkta değişir. İstasyon bazlı avantajlı (kampanyalı) fiyatlar ayrı sayfadadır; sayılara katılmaz.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:56:01+03:00",
-   "son_kontrol": "2026-11-18T14:56:01+03:00",
+   "son_kontrol": "2026-11-19T09:15:30+03:00",
    "yontem": "elle"
   },
   {
@@ -683,7 +683,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:56:38+03:00",
-   "son_kontrol": "2026-11-18T14:56:38+03:00",
+   "son_kontrol": "2026-11-19T09:16:14+03:00",
    "yontem": "otomatik"
   },
   {
@@ -695,7 +695,7 @@
    "aciklama": "DC fiyatı lokasyona göre belirtilen aralıkta değişir.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:03+03:00",
-   "son_kontrol": "2026-11-18T14:55:03+03:00",
+   "son_kontrol": "2026-11-19T09:14:29+03:00",
    "yontem": "otomatik"
   },
   {
@@ -704,10 +704,10 @@
    "ac_ust": 9.95,
    "dc_alt": 12.9,
    "dc_ust": 12.9,
-   "aciklama": null,
+   "aciklama": "İstasyon bazlı tablo (bazı lokasyonlar kısıtlı kullanım). İşgaliye ücreti ayrı sütunda; fiyata katılmaz.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T21:29:43+03:00",
-   "son_kontrol": "2026-11-18T21:29:43+03:00",
+   "son_kontrol": "2026-11-19T09:17:09+03:00",
    "yontem": "elle"
   },
   {
@@ -716,7 +716,7 @@
    "ac_ust": 10.9,
    "dc_alt": 13.9,
    "dc_ust": 13.9,
-   "aciklama": null,
+   "aciklama": "robots.txt geçici engel (HTTP 429) verdi; 24 saat dolduktan sonra 'Şimdi oku' yalnız robots.txt'i bir kez denetler (sayfa okunmaz). İzin verirse sayfa metni görülüp kural yazılabilir; o zamana dek elle girilir.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T21:30:19+03:00",
    "son_kontrol": "2026-11-18T21:30:19+03:00",
@@ -728,10 +728,10 @@
    "ac_ust": 10.99,
    "dc_alt": 11.99,
    "dc_ust": 14.49,
-   "aciklama": "Lokasyonlardaki birim fiyat belirlenen aralıkta değişir.",
+   "aciklama": "Lokasyonlardaki birim fiyat belirlenen aralıkta değişir. Lokasyon bazlı indirimli tarifeler ayrı tablodadır; sayılara katılmaz.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:07+03:00",
-   "son_kontrol": "2026-11-18T14:55:07+03:00",
+   "son_kontrol": "2026-11-19T09:14:34+03:00",
    "yontem": "otomatik"
   },
   {
@@ -743,7 +743,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:56:56+03:00",
-   "son_kontrol": "2026-11-18T14:56:56+03:00",
+   "son_kontrol": "2026-11-19T09:16:34+03:00",
    "yontem": "otomatik"
   },
   {
@@ -755,7 +755,7 @@
    "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:55:16+03:00",
-   "son_kontrol": "2026-11-18T14:55:16+03:00",
+   "son_kontrol": "2026-11-19T09:14:41+03:00",
    "yontem": "otomatik"
   },
   {
@@ -767,7 +767,7 @@
    "aciklama": "DC iki fiyat (DC-1 / DC-2 cihaz türü); fiyatlar lokasyona göre değişebilir.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:54:58+03:00",
-   "son_kontrol": "2026-11-18T14:54:58+03:00",
+   "son_kontrol": "2026-11-19T09:14:24+03:00",
    "yontem": "otomatik"
   },
   {
@@ -776,10 +776,10 @@
    "ac_ust": 9.99,
    "dc_alt": 12.9,
    "dc_ust": 12.9,
-   "aciklama": null,
+   "aciklama": "Tek fiyat (AC ve DC). Soket çekilmezse süreye bağlı ek bedel ve rezervasyon bedeli fiyata katılmaz.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T21:30:55+03:00",
-   "son_kontrol": "2026-11-18T21:30:55+03:00",
+   "son_kontrol": "2026-11-19T09:17:03+03:00",
    "yontem": "elle"
   },
   {
@@ -791,9 +791,9 @@
    "aciklama": "DC iki fiyat (DC-1 / DC-2); DC fiyatı lokasyona göre değişir.",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-18T14:57:11+03:00",
-   "son_kontrol": "2026-11-18T14:57:11+03:00",
+   "son_kontrol": "2026-11-19T09:16:53+03:00",
    "yontem": "otomatik"
   }
  ],
- "ozet_sha256": "6a0d5047fa7fbc03a5f17805c30fba817f87984158e82f7e0c9c6ceff04063e8"
+ "ozet_sha256": "fb9d9888b3f7871144199450c551aa8df88a6f1ee70d05b66abb55522e5dfc66"
 }
