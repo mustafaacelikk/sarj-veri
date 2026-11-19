@@ -1,6 +1,6 @@
 {
  "format": 1,
- "olusturma": "2026-11-19T10:58:56+03:00",
+ "olusturma": "2026-11-19T14:13:46+03:00",
  "kapsam": {
   "isletmeci": 31,
   "soket_payi": 67.8
@@ -280,7 +280,7 @@
    "lisans_no": "ŞH/11554-3/00084",
    "marka": "otoWATT",
    "sayfa_url": "https://www.otowatt.com.tr/tarifelerimiz",
-   "okuma": "elle"
+   "okuma": "otomatik"
   },
   {
    "lisans_no": "ŞH/12298-2/00168",
@@ -572,7 +572,7 @@
    "ac_ust": 9.9,
    "dc_alt": 9.9,
    "dc_ust": 14.9,
-   "aciklama": "robots.txt fiyat sayfasını yasaklıyor; fiyat elle girilir (bağlantı açılabilir).",
+   "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-19T10:58:45+03:00",
    "son_kontrol": "2026-11-19T10:58:45+03:00",
@@ -656,7 +656,7 @@
    "ac_ust": 10.99,
    "dc_alt": 11.99,
    "dc_ust": 13.99,
-   "aciklama": "Sahip bildirimi: sayfa fiyat yayımlamaya başladı. Otomatik kural, sayfa bir kez okunup metni görüldükten sonra yazılacak (günde en çok 1 okuma kuralı nedeniyle ertelendi); o zamana dek elle girilir.",
+   "aciklama": "Aralık: standart tarife (üst) ve site / yerleşkelerde lokasyon bazlı indirimli tarife (alt).",
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-19T10:58:11+03:00",
    "son_kontrol": "2026-11-19T10:58:11+03:00",
@@ -716,7 +716,7 @@
    "ac_ust": 10.9,
    "dc_alt": 13.9,
    "dc_ust": 13.9,
-   "aciklama": "robots.txt geçici engel (HTTP 429) verdi; 24 saat dolduktan sonra 'Şimdi oku' yalnız robots.txt'i bir kez denetler (sayfa okunmaz). İzin verirse sayfa metni görülüp kural yazılabilir; o zamana dek elle girilir.",
+   "aciklama": null,
    "yururluk_tarihi": null,
    "okuma_zamani": "2026-11-19T10:56:31+03:00",
    "son_kontrol": "2026-11-19T10:56:31+03:00",
@@ -795,5 +795,5 @@
    "yontem": "otomatik"
   }
  ],
- "ozet_sha256": "1e0a1d592784f8c6b6bb351468988a09e724d958fb93607dede6e954f4cd2682"
+ "ozet_sha256": "9bfedb1649c840278ba815319eb690b9b00a5dc5532d92a76bf70f8a99d16343"
 }
