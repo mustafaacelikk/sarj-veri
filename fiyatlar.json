@@ -1,6 +1,6 @@
 {
  "format": 1,
- "olusturma": "2026-11-19T09:22:05+03:00",
+ "olusturma": "2026-11-19T10:58:56+03:00",
  "kapsam": {
   "isletmeci": 31,
   "soket_payi": 67.8
@@ -574,8 +574,8 @@
    "dc_ust": 14.9,
    "aciklama": "robots.txt fiyat sayfasını yasaklıyor; fiyat elle girilir (bağlantı açılabilir).",
    "yururluk_tarihi": null,
-   "okuma_zamani": "2026-11-18T21:25:28+03:00",
-   "son_kontrol": "2026-11-18T21:25:28+03:00",
+   "okuma_zamani": "2026-11-19T10:58:45+03:00",
+   "son_kontrol": "2026-11-19T10:58:45+03:00",
    "yontem": "elle"
   },
   {
@@ -658,8 +658,8 @@
    "dc_ust": 13.99,
    "aciklama": "Sahip bildirimi: sayfa fiyat yayımlamaya başladı. Otomatik kural, sayfa bir kez okunup metni görüldükten sonra yazılacak (günde en çok 1 okuma kuralı nedeniyle ertelendi); o zamana dek elle girilir.",
    "yururluk_tarihi": null,
-   "okuma_zamani": "2026-11-18T21:24:35+03:00",
-   "son_kontrol": "2026-11-18T21:24:35+03:00",
+   "okuma_zamani": "2026-11-19T10:58:11+03:00",
+   "son_kontrol": "2026-11-19T10:58:11+03:00",
    "yontem": "elle"
   },
   {
@@ -718,8 +718,8 @@
    "dc_ust": 13.9,
    "aciklama": "robots.txt geçici engel (HTTP 429) verdi; 24 saat dolduktan sonra 'Şimdi oku' yalnız robots.txt'i bir kez denetler (sayfa okunmaz). İzin verirse sayfa metni görülüp kural yazılabilir; o zamana dek elle girilir.",
    "yururluk_tarihi": null,
-   "okuma_zamani": "2026-11-18T21:30:19+03:00",
-   "son_kontrol": "2026-11-18T21:30:19+03:00",
+   "okuma_zamani": "2026-11-19T10:56:31+03:00",
+   "son_kontrol": "2026-11-19T10:56:31+03:00",
    "yontem": "elle"
   },
   {
@@ -795,5 +795,5 @@
    "yontem": "otomatik"
   }
  ],
- "ozet_sha256": "fb9d9888b3f7871144199450c551aa8df88a6f1ee70d05b66abb55522e5dfc66"
+ "ozet_sha256": "1e0a1d592784f8c6b6bb351468988a09e724d958fb93607dede6e954f4cd2682"
 }
