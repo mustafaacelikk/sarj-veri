@@ -1,6 +1,6 @@
 {
  "format": 1,
- "olusturma": "2026-11-19T15:08:39+03:00",
+ "olusturma": "2026-11-19T16:22:55+03:00",
  "kapsam": {
   "isletmeci": 31,
   "soket_payi": 67.8
@@ -795,5 +795,5 @@
    "yontem": "otomatik"
   }
  ],
- "ozet_sha256": "d34ab4117ac2e5bdb5fe4b9b7664e482a61c21402301e85b88c491677499902d"
+ "ozet_sha256": "88f3c150356a67211fa99043cc820eb72e503919636b266315fab376461a603f"
 }
