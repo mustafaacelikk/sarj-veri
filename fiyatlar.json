@@ -1,6 +1,6 @@
 {
  "format": 1,
- "olusturma": "2026-11-19T14:13:46+03:00",
+ "olusturma": "2026-11-19T14:32:15+03:00",
  "kapsam": {
   "isletmeci": 31,
   "soket_payi": 67.8
@@ -670,8 +670,8 @@
    "dc_ust": 11.87,
    "aciklama": "Genel tarife: DC fiyatı istasyona göre aralıkta değişir. İstasyon bazlı avantajlı (kampanyalı) fiyatlar ayrı sayfadadır; sayılara katılmaz.",
    "yururluk_tarihi": null,
-   "okuma_zamani": "2026-11-18T14:56:01+03:00",
-   "son_kontrol": "2026-11-19T09:15:30+03:00",
+   "okuma_zamani": "2026-11-19T14:31:21+03:00",
+   "son_kontrol": "2026-11-19T14:31:21+03:00",
    "yontem": "elle"
   },
   {
@@ -795,5 +795,5 @@
    "yontem": "otomatik"
   }
  ],
- "ozet_sha256": "9bfedb1649c840278ba815319eb690b9b00a5dc5532d92a76bf70f8a99d16343"
+ "ozet_sha256": "6b28159b89677d16b012e1079d062028c946b4c0a9da9b0d6e29715e671ed37e"
 }
